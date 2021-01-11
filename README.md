@@ -14,3 +14,13 @@ https://app.diagrams.net/
 
 
 https://ascii.co.uk/art
+
+
+
+https://www.latlong.net/
+
+https://home.openweathermap.org/
+
+https://www.twilio.com/
+
+https://apilist.fun/
